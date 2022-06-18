@@ -1,3 +1,4 @@
+include
 int main (){
-    printf " Hello Word"
+    printf "\n Ngày mới vui vẻ nhé (*_*)"
 }
